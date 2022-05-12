@@ -101,7 +101,7 @@ pub struct StorageBalance {
 impl Crossword {
     // ADD CONTRACT METHODS HERE
 
-    // create a new 'Corossword' object
+    // create a new 'Crossword' object
     #[init]
     pub fn new(owner_id: AccountId) -> Self {
         Self {
