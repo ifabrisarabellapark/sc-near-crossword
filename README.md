@@ -8,6 +8,7 @@ An MVP (minimum viable product) for the most basic Rust smart contract you can p
 These are the steps to execute a smart contract on NEAR:
 * compile
 * deploy
+* initialize
 * interact
 
 Run the following commands from terminal (from the root folder):
